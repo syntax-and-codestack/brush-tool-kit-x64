@@ -2,7 +2,7 @@
  BRUSH-TK
 ==========
 
-Tools For Creating 3D Brush Based Map Editors *Programmed By Hunter Manko*
+Tools For Creating 3D Brush Based Map Editors *---Programmed By Hunter Manko---*
 
  TOOLKITS
 ==========
